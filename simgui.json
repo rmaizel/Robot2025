@@ -128,10 +128,22 @@
         "Field": {
           "open": true
         },
+        "IMU": {
+          "open": true
+        },
+        "JSON": {
+          "open": true
+        },
+        "MapleArenaSimulation": {
+          "open": true
+        },
         "open": true,
         "swerve": {
           "open": true
         }
+      },
+      "swerve": {
+        "open": true
       }
     }
   },
